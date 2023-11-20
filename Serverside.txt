@@ -1,0 +1,23 @@
+Hosting
+--> Hosting is an online service that enables you to publish your website or web application on the internet 
+-->make accessible across different device like mobile,desktop,laptop
+types
+--shared Hosting
+virtual private server (VPS)
+Cloud
+Wordpress
+Dedicated
+
+server
+--> The server that host your website is a physical computer that makes site accessible for visitors all the time.
+
+DNS
+--> domain name system
+=>it is an string text that maps into an alphanumeric IP address.
+-->it is unique easy to remember address and used to access website.
+
+
+#SSH vs Http
+Use SSH as a more secure option and HTTPS for basic, password-based Git usage. 
+Since SSH is more secure than entering credentials over HTTPS, it is recommended for businesses dealing with sensitive and critical data. 
+Once you generate the SSH keys, only the machines with the key file on disk can access the repository
